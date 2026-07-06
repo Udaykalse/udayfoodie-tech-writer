@@ -101,3 +101,9 @@ Run locally by opening `index.html` in your browser.
 **Uday Kalse**
 
 GitHub: https://github.com/Udaykalse
+
+
+## 📸 Preview
+
+![UdayFoodie Landing Page](images/homepage.png)
+
