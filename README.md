@@ -105,5 +105,5 @@ GitHub: https://github.com/Udaykalse
 
 ## 📸 Preview
 
-![UdayFoodie Landing Page](images/homepage.png)
+![UdayFoodie Landing Page](images/home.png)
 
