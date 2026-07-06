@@ -1,56 +1,68 @@
 # 🍔 UdayFoodie Landing Page
 
-A responsive food landing page built using **HTML5** and **CSS3**. This project demonstrates modern web design principles, semantic HTML structure, responsive layouts, and clean CSS styling.
+> A responsive food landing page built using **HTML5** and **CSS3**.
 
 ---
 
-## 📖 Project Overview
+## 📸 Project Preview
 
-The **UdayFoodie Landing Page** is a static website created to showcase front-end development skills. It provides a visually appealing homepage for a fictional food business with sections designed to improve user engagement and browsing experience.
-
-This repository also serves as a **Technical Writing portfolio project**, featuring structured documentation following the Docs-as-Code approach.
+![Home Page](images/home.png)
 
 ---
 
-## ✨ Features
+# 📖 Table of Contents
 
-- Responsive landing page
-- Modern and clean UI
-- Semantic HTML5
-- Organized CSS
-- Optimized image assets
-- Beginner-friendly project structure
+- Project Overview
+- Features
+- Tech Stack
+- Project Structure
+- Screenshots
+- Documentation
+- Getting Started
+- Future Improvements
+- Author
 
 ---
 
-## 🛠️ Tech Stack
+# 🚀 Project Overview
+
+The **UdayFoodie Landing Page** is a responsive front-end web application developed using semantic HTML5 and modern CSS3.
+
+This repository also demonstrates professional **Docs-as-Code** practices through structured technical documentation.
+
+---
+
+# ✨ Features
+
+- Responsive Layout
+- Hero Section
+- About Section
+- Menu Section
+- Customer Feedback
+- Modern UI
+- Optimized Images
+- Organized Documentation
+
+---
+
+# 🛠 Tech Stack
 
 | Technology | Purpose |
-|------------|---------|
-| HTML5 | Page Structure |
-| CSS3 | Styling and Layout |
+|------------|----------|
+| HTML5 | Structure |
+| CSS3 | Styling |
+| Git | Version Control |
+| GitHub | Repository Hosting |
+| Markdown | Documentation |
 
 ---
 
-## 📂 Project Structure
+# 📂 Project Structure
 
 ```text
 udayfoodie-landing-page/
 ├── assets/
-│   └── Images/
 ├── docs/
-│   ├── assets.md
-│   ├── changelog.md
-│   ├── contributing.md
-│   ├── design.md
-│   ├── faq.md
-│   ├── features.md
-│   ├── folder-structure.md
-│   ├── getting-started.md
-│   ├── glossary.md
-│   ├── installation.md
-│   ├── project-overview.md
-│   └── troubleshooting.md
 ├── images/
 ├── index.html
 ├── style.css
@@ -59,51 +71,82 @@ udayfoodie-landing-page/
 
 ---
 
-## 📚 Documentation
+# 🖼 Screenshots
 
-Detailed project documentation is available in the `docs/` directory.
+## Home
 
-- Getting Started
-- Installation Guide
-- Project Overview
-- Folder Structure
-- Features
-- Design
-- Assets
-- Troubleshooting
-- FAQ
-- Glossary
-- Contributing Guide
-- Changelog
+![Home](images/home.png)
 
 ---
 
-## 🚀 Getting Started
+## About
 
-Clone the repository
+![About](images/about.png)
+
+---
+
+## Menu
+
+![Menu](images/menu.png)
+
+---
+
+## Customer Feedback
+
+![Feedback](images/feedback.png)
+
+---
+
+
+## 📚 Documentation
+
+- [Project Overview](docs/project-overview.md)
+- [Installation Guide](docs/installation.md)
+- [Getting Started](docs/getting-started.md)
+- [Folder Structure](docs/folder-structure.md)
+- [Features](docs/features.md)
+- [Design](docs/design.md)
+- [Assets](docs/assets.md)
+- [Troubleshooting](docs/troubleshooting.md)
+- [FAQ](docs/faq.md)
+- [Glossary](docs/glossary.md)
+- [Contributing](docs/contributing.md)
+- [Changelog](docs/changelog.md)
+
+---
+
+# 🚀 Getting Started
 
 ```bash
 git clone https://github.com/Udaykalse/udayfoodie-landing-page.git
-```
 
-Open the project
-
-```bash
 cd udayfoodie-landing-page
 ```
 
-Run locally by opening `index.html` in your browser.
+Open:
+
+```
+index.html
+```
 
 ---
 
-## 👨‍💻 Author
+# 🔮 Future Improvements
+
+- JavaScript Interactivity
+- Dark Mode
+- Contact Form
+- Backend Integration
+- Shopping Cart
+- Food Ordering System
+- Accessibility Improvements
+
+---
+
+# 👨‍💻 Author
 
 **Uday Kalse**
 
-GitHub: https://github.com/Udaykalse
+GitHub
 
-
-## 📸 Preview
-
-![UdayFoodie Landing Page](images/home.png)
-
+https://github.com/Udaykalse
